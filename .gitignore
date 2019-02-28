@@ -6,3 +6,8 @@
 #Project files
 [Bb]uild/
 *.properties
+
+#Eclipse files
+bin
+.classpath
+.project
